@@ -13,6 +13,8 @@ Skills: PYTHON/DJANGO/MACHING LEARNIG / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Blockchain 
 - 💬 Ask me about python, js, react 
 
+![Img for GitHub](https://user-images.githubusercontent.com/74883556/167242297-dd498c36-d318-41d3-b01e-a2a97f70c407.PNG)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arafatHoshen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arafat7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCV6vGLwmJneo7leWpgjVBDA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arafathoshen.netlify.app/)  
 

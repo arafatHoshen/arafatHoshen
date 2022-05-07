@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Arafat Hoshen
 #### I am a full-stack web-developer with Django and React
-![I am a full-stack web-developer with Django and React](https://media-exp1.licdn.com/dms/image/C5616AQFoIByrePXCzw/profile-displaybackgroundimage-shrink_350_1400/0/1651851327239?e=1657152000&v=beta&t=kD8bWlTQxss8neClKDVL0R9-QgFjh_ee6X7wU8jH_zw)
+
+![Cover photo](https://user-images.githubusercontent.com/74883556/167242233-e63d605e-8cf8-45fd-a247-9b0887ae8102.png)
 
 I'm a professional Django and React developer. I can develop any website using Django. All websites are 100% RESPONSIVE, SEO FRIENDLY, FAST & 
 SECURED. My HTML, CSS, Bootstrap, Git and  GitHub, Django, Django REST Framework and React coding skills are very strong. I have acquired fame 
